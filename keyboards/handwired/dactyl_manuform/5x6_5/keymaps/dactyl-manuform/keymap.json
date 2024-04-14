@@ -3,7 +3,7 @@
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "handwired/dactyl_manuform/5x6_5",
-  "keymap": "dactyl_manuform_5x6_5_v1",
+  "keymap": "handwired_dactyl_manuform_5x6_5_dactyl_manuform_5x6_5_v1",
   "layout": "LAYOUT_5x6_5",
   "layers": [
     [
@@ -111,10 +111,10 @@
       "KC_NO",
       "KC_PLUS",
       "RSFT(KC_SLSH)",
-      "KC_PMNS",
-      "KC_PSLS",
+      "KC_SLSH",
+      "RSFT(KC_7)",
       "RALT(KC_MINS)",
-      "KC_PPLS",
+      "KC_MINS",
       "KC_HASH",
       "RALT(KC_RBRC)",
       "KC_NO",
